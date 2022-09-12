@@ -12,16 +12,16 @@ int i, e;
 i = 48;
 e = 48;
 
-while (i < 50)
+while (e < 50)
 {
 i = 48;
-while ( i < 58)
+while (i < 58)
 {
 if (e != i && e < i)
 {
 putchar(e);
 putchar(i);
-if ( i == 57 && e == 56)
+if (i == 57 && e == 56)
 {
 break;
 }
