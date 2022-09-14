@@ -6,7 +6,7 @@
  * 0
  *
  *
- * Return : 1 for lowercase character. 0 for the rest.
+ * Return: 1 for lowercase character. 0 for the rest.
  */
 int _islower(int c)
 {
