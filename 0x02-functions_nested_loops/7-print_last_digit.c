@@ -16,7 +16,7 @@ s = m % 10;
 if (s < 0)
 {
 _putchar(-s + 48);
-return (s);
+return (-s);
 }
 else
 {
