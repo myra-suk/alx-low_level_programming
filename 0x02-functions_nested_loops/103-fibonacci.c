@@ -20,7 +20,7 @@ n1 = n2;
 n2 = fn;
 if ((n1 % 2) == 0)
 {
-    efn += n1;
+efn += n1;
 }
 }
 printf("%ld\n", efn);
