@@ -10,9 +10,9 @@
  */
 void print_to_98(int m)
 {
-if ( m > 98)
+if (m > 98)
 {
-for (; m> 98; m--)
+for (; m > 98; m--)
 {
 printf("%d, ", m);
 }
