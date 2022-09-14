@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* main - Prints _printchar as a message
+* main - Prints the word _putchar
 *
 * Retuen: Always 0 (Success)
 */
