@@ -3,22 +3,22 @@
 /**
  * print_times_table - Prints the n times table
  *
- * @a: number times table (0 < a <= 15)
+ * @n: number times table (0 < a <= 15)
  *
  * Return: no return
  */
-void print_times_table(int a)
+void print_times_table(int n)
 {
-int x, y, op;
+int a, b, op;
 
-if (a >= 0 && a <= 15)
+if (n >= 0 && n <= 15)
 {
-for (x = 0; x <= a; x++);
+for (a = 0; a <= n; a++)
 {
 _putchar(48);
-for (y = 1; y <= a; y++)
+for (b = 1; b <= n; b++)
 {
-op = x * y;
+op = a * b;
 _putchar(44);
 _putchar(32);
 if (op <= 9)
