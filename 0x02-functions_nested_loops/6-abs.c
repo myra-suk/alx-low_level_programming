@@ -4,7 +4,7 @@
  * _abs - Computes the absolte value
  * of an integer
  *
- * @i: input number which is of integer value
+ * @x: input number which is of integer value
  *
  * Return: absolute value
  */
