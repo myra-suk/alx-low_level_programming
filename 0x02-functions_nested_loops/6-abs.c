@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _abs - Computes the absolte value 
+ * _abs - Computes the absolte value
  * of an integer
  *
  * @i: input number which is of integer value
@@ -12,7 +12,7 @@ int _abs(int x)
 {
 if (x >= 0)
 {
-return(x);
+return (x);
 }
 else
 {
