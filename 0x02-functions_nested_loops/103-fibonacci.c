@@ -23,6 +23,6 @@ if ((n1 % 2) == 0)
     efn += n1;
 }
 }
-printf_s("%ld\n", efn);
+printf("%ld\n", efn);
 return (0);
 }
