@@ -5,7 +5,7 @@
  * @n: nimner of times diagonal line is printed
  * Return: no return
  */
-void print_Digonl(int n)
+void print_diagonal(int n)
 {
 int x, y;
 
