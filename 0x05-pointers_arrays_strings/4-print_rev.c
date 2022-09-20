@@ -11,7 +11,7 @@ int counter = 0;
 
 while (counter >= 0)
 {
-if(s[counter] == '\0')
+if (s[counter] == '\0')
 break;
 counter++;
 }
