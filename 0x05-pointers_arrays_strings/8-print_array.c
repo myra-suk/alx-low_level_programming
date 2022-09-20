@@ -3,18 +3,18 @@
 
 /**
  * print_array- Prints n elements of an array of integers.
- * @x: Input array. 
+ * @a: Input array. 
  * @n: Input n elements.
  * Return: No return.
  */
-void print_array(int *x, int n)
+void print_array(int *a, int n)
 {
-int y = 0;
+int i = 0;
 
-for (; y < n; y++)
+for (; i < n; i++)
 {
-printf("%d", *(x + y));
-if (y != (n - y))
+printf("%d", *(a + i));
+if (i != (i - y))
 printf(", ");
 }
 printf("\n");
