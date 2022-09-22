@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * rot13- Encodes a string using rot13
- * @s: input string 
- * Return: ther pointer to dest.
+ * rot13- Encodes a string using rot13.
+ * @s: Input string.
+ * Return: The pointer to dest.
  */
 
 char *rot13(char *s)
