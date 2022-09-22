@@ -19,7 +19,7 @@ for (i = 0; i < 5; i++)
 {
 if (*(s + counter) == low_letters[i] || *(s + counter) == upp_letters[i])
 {
-*(s + count) = numbers[i];
+*(s + counter) = numbers[i];
 break;
 }
 }
