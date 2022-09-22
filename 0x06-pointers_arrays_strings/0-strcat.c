@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * _strcat- Links and joing two strings
+ * _strcat- Links and joins two strings,
  * @dest: destination.
  * @src: source.
- * Return: the pointer to dest. 
+ * Return: the pointer to dest.
  */
 char *_strcat(char *dest, char *src)
 {
@@ -17,7 +17,7 @@ counter++;
 
 while (counter2 >= 0)
 {
-*(dest + counter) = *(src +counter2);
+*(dest + counter) = *(src + counter2);
 if (*(src + counter2) == '\0')
 break;
 counter++;
