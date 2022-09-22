@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strcat - Links and joing two strings,
+ * _strcat- Links and joing two strings
  * @dest: destination.
  * @src: source.
  * Return: the pointer to the destination.
