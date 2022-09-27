@@ -4,7 +4,7 @@
  * set_string - Sets the value of a pointer to a char
  * @s: Source address.
  * @to: Target address.
- * Return: No return.
+ * Return: No return. 
  */
 void set_string(char **s, char *to)
 {
