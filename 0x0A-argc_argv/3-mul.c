@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * min- Multiplies two numbers.
+ * main- Multiplies two numbers.
  * @argc: Number of commnd line arguments.
  * @argv: Array that contains the program commnd line rguments.
  * Return: 0- Success
