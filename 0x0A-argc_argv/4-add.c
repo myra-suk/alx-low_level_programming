@@ -3,10 +3,10 @@
 #include <ctype.h>
 
 /**
- * main- Adds two positive numbers.
+ * main- Adds positive numbers.
  * @argc: Number of command line arguments.
  * @argv: Array that contains the program command line arguements.
- * Return: 0- Success
+ * Return: 0- Success.
  */
 int main(int argc, char *argv[])
 {
