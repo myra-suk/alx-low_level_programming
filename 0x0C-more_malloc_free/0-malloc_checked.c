@@ -15,5 +15,5 @@ char *p;
 p = malloc(b);
 if (p == NULL)
 exit(98);
-return (p);
+return(p);
 }
